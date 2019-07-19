@@ -1,0 +1,135 @@
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Release\Municipal management.exe.config
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Release\Municipal management.exe
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Release\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Form1.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Log_in.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Properties.Resources.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal management.csproj.GenerateResource.Cache
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal management.exe
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Welcome.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Release\Program.cs
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Administrators.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.appointment_with_administrator.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.billHelp.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Birth_Certificate.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.complaints.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.current_bills.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Current_bill_calculator.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.gas_bills.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.help_abt_certificates.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.Voter_Id.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.water_bills.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal management.csprojResolveAssemblyReference.cache
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Release\Municipal_management.administratorLogin.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\bin\Release\Program.cs
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\bin\Release\Municipal management.exe.config
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\bin\Release\Municipal management.exe
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal management.csprojResolveAssemblyReference.cache
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.administratorLogin.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Administrators.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.appointment_with_administrator.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.billHelp.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Birth_Certificate.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.complaints.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.current_bills.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Current_bill_calculator.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Registration.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.gas_bills.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.help_abt_certificates.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Log_in.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Properties.Resources.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.Voter_Id.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.water_bills.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal_management.welcome.resources
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal management.csproj.GenerateResource.Cache
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal management.exe
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\obj\Release\Municipal management.pdb
+C:\Users\Bishal\Desktop\C#\Municipal management\Municipal management\bin\Release\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\bin\Release\Registration.mdf
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\bin\Release\Registration_log.ldf
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\bin\Release\Program.cs
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\bin\Release\Municipal management.exe.config
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\bin\Release\Municipal management.exe
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\bin\Release\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal management.csprojResolveAssemblyReference.cache
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.administratorLogin.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Administrators.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.appointment_with_administrator.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.billHelp.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Birth_Certificate.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.complaints.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.current_bills.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Current_bill_calculator.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Registration.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.gas_bills.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.help_abt_certificates.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Log_in.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Properties.Resources.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.Voter_Id.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.water_bills.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.welcome.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal management.csproj.GenerateResource.Cache
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal management.exe
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.ui.bsNoAdmin.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.ui.complaintAdmin.resources
+C:\Users\NAZMUL\Downloads\c# project\Municipal management\Municipal management\obj\Release\Municipal_management.ui.VIAdmin.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\bin\Release\Registration.mdf
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\bin\Release\Registration_log.ldf
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\bin\Release\Program.cs
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\bin\Release\Municipal management.exe.config
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\bin\Release\Municipal management.exe
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\bin\Release\Municipal management.pdb
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal management.csprojResolveAssemblyReference.cache
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.administratorLogin.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.Administrators.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.ui.bsNoAdmin.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.ui.complaintAdmin.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.appointment_with_administrator.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.billHelp.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.Birth_Certificate.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.complaints.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.current_bills.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.Registration.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.gas_bills.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.help_abt_certificates.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.Log_in.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.Properties.Resources.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.ui.VIAdmin.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.Voter_Id.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.water_bills.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.welcome.resources
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal management.csproj.GenerateResource.Cache
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal management.exe
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal management.pdb
+C:\Users\Bishal\Desktop\Municipal management\Municipal management\obj\Release\Municipal_management.ui.InsertBills.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\bin\Release\Registration.mdf
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\bin\Release\Registration_log.ldf
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\bin\Release\Program.cs
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\bin\Release\Municipal management.exe.config
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\bin\Release\Municipal management.exe
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\bin\Release\Municipal management.pdb
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal management.csprojResolveAssemblyReference.cache
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.Properties.Resources.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.administratorLogin.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.Administrators.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.appointment_with_administrator.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.billHelp.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.Birth_Certificate.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.ui.bsNoAdmin.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.ui.complaintAdmin.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.complaints.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.current_bills.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.gas_bills.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.help_abt_certificates.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.ui.InsertBills.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.Log_in.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.Registration.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.ui.VIAdmin.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.Voter_Id.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.water_bills.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal_management.welcome.resources
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal management.csproj.GenerateResource.Cache
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal management.exe
+D:\personal\AIUB\10th semester\Municipal management\Municipal management\obj\Release\Municipal management.pdb

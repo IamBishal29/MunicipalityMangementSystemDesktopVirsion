@@ -1,0 +1,23 @@
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Debug\Municipal management.exe
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Debug\Municipal management.exe.config
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Form1.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Log_in.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Properties.Resources.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal management.csproj.GenerateResource.Cache
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal management.exe
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Debug\Municipal management.pdb
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal management.csprojResolveAssemblyReference.cache
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\bin\Debug\Program.cs
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.welcome.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Birth_Certificate.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Voter_Id.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Administrators.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.complaints.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.appointment_with_administrator.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.current_bills.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.gas_bills.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.help_abt_certificates.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.water_bills.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.Current_bill_calculator.resources
+C:\Users\NAZMUL\Downloads\c#lab tasks\Municipal management\Municipal management\obj\Debug\Municipal_management.billHelp.resources
